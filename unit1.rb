@@ -11,3 +11,5 @@ res = if a > 5
 	end
 
 puts res	
+
+puts a = nil || false
